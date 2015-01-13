@@ -29,6 +29,8 @@ proguard/
 .DS_Store
 
 # IntelliJ
-/.idea/workspace.xml
-/.idea/libraries
+.idea/
+*.iml
+*.ipr
+*.iws
 
